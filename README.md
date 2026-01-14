@@ -11,7 +11,7 @@ The goal is to develop **real-world software engineering skills** that scale bey
 
 ## 📌 Overview
 
-Good software is not just about writing code — it is about writing **clean, reliable, and maintainable systems**.
+Good software is not just about writing code , it is about writing **clean, reliable, and maintainable systems**.
 
 This repository focuses on:
 - Writing clean and readable code
